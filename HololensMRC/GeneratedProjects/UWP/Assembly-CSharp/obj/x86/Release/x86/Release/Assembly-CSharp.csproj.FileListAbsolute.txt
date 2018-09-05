@@ -1,0 +1,17 @@
+E:\UnityProjects\MixedRealityCompanionKit\MixedRemoteViewCompositor\Samples\LowLatencyMRC\Unity\HololensMRC\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp.dll
+E:\UnityProjects\MixedRealityCompanionKit\MixedRemoteViewCompositor\Samples\LowLatencyMRC\Unity\HololensMRC\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp.pdb
+E:\UnityProjects\MixedRealityCompanionKit\MixedRemoteViewCompositor\Samples\LowLatencyMRC\Unity\HololensMRC\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp.pri
+E:\UnityProjects\MixedRealityCompanionKit\MixedRemoteViewCompositor\Samples\LowLatencyMRC\Unity\HololensMRC\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\UnityProjects\MixedRealityCompanionKit\MixedRemoteViewCompositor\Samples\LowLatencyMRC\Unity\HololensMRC\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\Assembly-CSharp.dll
+E:\UnityProjects\MixedRealityCompanionKit\MixedRemoteViewCompositor\Samples\LowLatencyMRC\Unity\HololensMRC\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\Assembly-CSharp.pdb
+E:\UnityProjects\MixedRealityCompanionKit\MixedRemoteViewCompositor\Samples\LowLatencyMRC\Unity\HololensMRC\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\priconfig.xml
+E:\UnityProjects\MixedRealityCompanionKit\MixedRemoteViewCompositor\Samples\LowLatencyMRC\Unity\HololensMRC\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\priconfig.xml.intermediate
+E:\UnityProjects\MixedRealityCompanionKit\MixedRemoteViewCompositor\Samples\LowLatencyMRC\Unity\HololensMRC\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\layout.resfiles
+E:\UnityProjects\MixedRealityCompanionKit\MixedRemoteViewCompositor\Samples\LowLatencyMRC\Unity\HololensMRC\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\layout.resfiles.intermediate
+E:\UnityProjects\MixedRealityCompanionKit\MixedRemoteViewCompositor\Samples\LowLatencyMRC\Unity\HololensMRC\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\resources.resfiles
+E:\UnityProjects\MixedRealityCompanionKit\MixedRemoteViewCompositor\Samples\LowLatencyMRC\Unity\HololensMRC\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\resources.resfiles.intermediate
+E:\UnityProjects\MixedRealityCompanionKit\MixedRemoteViewCompositor\Samples\LowLatencyMRC\Unity\HololensMRC\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\pri.resfiles
+E:\UnityProjects\MixedRealityCompanionKit\MixedRemoteViewCompositor\Samples\LowLatencyMRC\Unity\HololensMRC\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\pri.resfiles.intermediate
+E:\UnityProjects\MixedRealityCompanionKit\MixedRemoteViewCompositor\Samples\LowLatencyMRC\Unity\HololensMRC\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\qualifiers.txt
+E:\UnityProjects\MixedRealityCompanionKit\MixedRemoteViewCompositor\Samples\LowLatencyMRC\Unity\HololensMRC\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\qualifiers.txt.intermediate
+E:\UnityProjects\MixedRealityCompanionKit\MixedRemoteViewCompositor\Samples\LowLatencyMRC\Unity\HololensMRC\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\MultipleQualifiersPerDimensionFound.txt

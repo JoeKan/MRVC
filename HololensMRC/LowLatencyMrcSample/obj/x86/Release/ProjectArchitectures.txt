@@ -1,0 +1,2 @@
+E:\UnityProjects\MixedRealityCompanionKit\MixedRemoteViewCompositor\Samples\LowLatencyMRC\Unity\HololensMRC\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+E:\UnityProjects\MixedRealityCompanionKit\MixedRemoteViewCompositor\Samples\LowLatencyMRC\Unity\HololensMRC\LowLatencyMrcSample\LowLatencyMrcSample.csproj;x86

@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Unity.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\AddOns\MixedRemoteViewCompositor\Scripts\MrvcCapture.cs">
+    <Files>
+      <File FileName="Assets\AddOns\MixedRemoteViewCompositor\Scripts\MrvcCapture.cs" Line="18" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

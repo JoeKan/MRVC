@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>LowLatencyMrcSample</UnityWSASolutionName>
+        <UnityWSASolutionDir>E:\UnityProjects\MixedRealityCompanionKit\MixedRemoteViewCompositor\Samples\LowLatencyMRC\Unity\HololensMRC\</UnityWSASolutionDir>
+        <UnityProjectDir>E:\UnityProjects\MixedRealityCompanionKit\MixedRemoteViewCompositor\Samples\LowLatencyMRC\Unity\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
